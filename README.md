@@ -1,2 +1,2 @@
-# LearningNote
-Personal learningnote
+# Initial page
+
