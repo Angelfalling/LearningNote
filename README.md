@@ -1,2 +1,1 @@
-# Initial page
-
+# 学习python基础知识的一些日记
